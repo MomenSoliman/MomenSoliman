@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Moamen Soliman
 
-<!--
-**MomenSoliman/MomenSoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Decision Support & Operations Research Student
+I am a Computer Science student at **Cairo University** specializing in **Decision Support**. I combine my operational experience at **Amazon Business** with technical data skills to drive business growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 What I'm Currently Studying
+* **Major:** B.Sc. in Computer Science (Decision Support & Operations Research).
+* **Focus:** Linear Programming, Stochastic Modeling, and Database Management.
+* **Certifications:** MTA: Database Administration | MOS: Excel Expert.
+
+---
+
+### 🛠️ My Toolbox
+* **Analysis:** Excel (Power Pivot, DAX), Power BI.
+* **Databases:** SQL Server, MS Access.
+* **Languages:** Python, SQL.
+
+---
+
+### 📈 Featured Project
+**[Sales Analytics Dashboard](https://github.com/MomenSoliman/Sales-Analytics-Dashboard)**
+* Developed a relational data model with a Star Schema in Excel.
+* Created DAX measures for YoY growth and profit margins.
+
+---
+
+### 📫 Reach Me
+* **LinkedIn:** [linkedin.com/in/moamen-soliman-17826323b](https://www.linkedin.com/in/moamen-soliman-17826323b)
+* **Email:** moamenbellah0508295314@gmail.com
+
+---
+*“Turning raw data into strategic decisions.”*
