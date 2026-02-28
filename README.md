@@ -20,13 +20,7 @@ I am a Computer Science student at **Cairo University** specializing in **Decisi
 ---
 
 ### 📈 Featured Project
-**[Sales Analytics Dashboard](https://github.com/MomenSoliman/Sales-Analytics-Dashboard)**
-
-<p align="center">
-  <a href="https://github.com/MomenSoliman/Sales-Analytics-Dashboard">
-    <img src="https://raw.githubusercontent.com/MomenSoliman/Sales-Analytics-Dashboard/main/SalesDashboard.png" width="600" alt="Sales Dashboard">
-  </a>
-</p>
+**[Sales Analytics Dashboard]https://github.com/MomenSoliman/Data-Analysis-Sales-Dashboard_1/blob/main/SalesDashboard.png?raw=true
 
 * Developed a relational data model with a Star Schema in Excel.
 * Created DAX measures for YoY growth and profit margins.
